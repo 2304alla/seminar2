@@ -18,8 +18,8 @@ Console.WriteLine($"Случайное число из диапазона 100-10
 //Console.Write($"{firstDigit}, {thirdDigit}, {secondDigit}");
 
 
- int firstLastDigit = FirstLastDigit(num);
+ int final = FirstLastDigit(num);
 
-Console.WriteLine(FirstLastDigit(num));
+Console.WriteLine($"Новое число: {final}");
 
 
